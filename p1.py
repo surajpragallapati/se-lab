@@ -1,5 +1,5 @@
 # Stage 1: Hard-coding Variables
-
+# hi this is suraj
 def quadratic_solution(a, b, c):
     # Quadratic formula: x = (-b ± sqrt(b^2 - 4ac)) / (2a)
     discriminant = b**2 - 4*a*c
